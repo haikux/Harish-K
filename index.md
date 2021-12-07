@@ -18,7 +18,7 @@ Though I've been using Golang for the past few months in my personal projects. I
 
 ### News
 - **[2021]** Not a winning team :> - Built resuable no code machine learning framework for Servicenow flow designer, Servicenow hackathon 
-- **[Mar.2020]** Yet another day, except now a ~~Associate~~ Software engineer
+- **[Mar.2020]** Yet another day, except now a ~~Associate~~ Software engineer :)
 - **[Dec.2018]** Book chapter contribution: Web framework for Network automation and Ops API --- [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
 - **[Nov.2018]** Winning Team, Servicenow employee hackathon
 
