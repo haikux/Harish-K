@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Homepage
 
-You can use the [editor on GitHub](https://github.com/haikux/haikux.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! I'm Harish, currently a software engineer at Servicenow. At work, I'm heavily invested in Python ecosystem - from machine learning to automations.
+I've been using Golang for the past few months in my personal projects. If not at work, you can find me usually reading books (added few of my recent favorites in the last section. If you are interested!)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Areas of Interests (In no particular order)
+1. ML Systems
+2. Infrastructure Automation
+3. Systems Engineering
 
 ```markdown
 Syntax highlighted code block
