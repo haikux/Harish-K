@@ -1,0 +1,2 @@
+# haikux.io
+Landing page
