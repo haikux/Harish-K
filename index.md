@@ -1,4 +1,4 @@
-## Homepage
+## About me
 
 Hi there! I'm Harish, currently a software engineer at Servicenow. 
 At work, I'm heavily invested in Python ecosystem - from machine learning to automations.
