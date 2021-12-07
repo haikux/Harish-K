@@ -20,6 +20,12 @@ Though I've been using Golang for the past few months in my personal projects. I
 Syntax highlighted code block
 - **[2020]** Not a winning team :> - Built no code resuable machine learning framework for Servicenow flow designer, Servicenow hackathon 
 - **[Mar.2019]** Yet another day, except now a ~~Associate~~ Software engineer
-- **[Dec.2018]** Book chapter contribution: Web framework for Network automation and Ops API [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
+- **[Dec.2018]** Book chapter contribution: Web framework for Network automation and Ops API --- [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
 - **[Nov.2018]** Winning Team, Servicenow employee hackathon
 
+### Favourite reads
+1. On Intelligence by Jeff Hawkins and Sandra Blakeslee - [goodreads]()
+2. Herding Hemingway's Cats: Understanding how our genes work by Kat Arney - [goodreads]()
+3. On Tyranny: Twenty Lessons from the Twentieth Century by Timothy D. Snyder - [goodreads]()
+4. Masala Lab by Krish Ashok - [goodreads]()
+Any reading suggestion ? please add it [here]() [this link redirects you to goodreads.com]!
