@@ -12,12 +12,13 @@ I've been using Golang for the past few months in my personal projects. If not a
 
 ### Some of the tools & services I use
 1. Visual Studio Code - Py & Go
-2. Azure - VM, Functions, Queues, Storage and Kubernetes
+2. Azure - VMs, Functions, Queues, Storage and Kubernetes
 3. Jenkins and Github
 4. Splunk
 
 ### News
 Syntax highlighted code block
+- **[2020] Not a winning team :>** - Built no code resuable machine learning framework for Servicenow flow designer, Servicenow hackathon 
 - **[2018] Book chapter contribution: Web framework for Network automation and Ops API** [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
-- **[2018]Winning Team**, Servicenow employee hackathon
+- **[2018] Winning Team**, Servicenow employee hackathon
 
