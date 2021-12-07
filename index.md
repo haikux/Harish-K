@@ -2,7 +2,7 @@
 
 Hi there! I'm Harish, currently a software engineer at Servicenow. 
 At work, I'm heavily invested in Python ecosystem - from machine learning to automations.
-I've been using Golang for the past few months in my personal projects. If not at work, you can find me usually reading books (added few of my recent favorites in the last section. If you are interested!)
+I've been using Golang for the past few months in my personal projects. If not at work, you can find me usually reading books (added few of my recent favorites in the last section. In case you are interested!)
 
 ### Areas of Interest (in no particular order)
 1. ML Systems
@@ -10,15 +10,17 @@ I've been using Golang for the past few months in my personal projects. If not a
 3. Systems Engineering
 4. Backend software development
 
-### Some of the tools & services I'm familiar with
+### Some of the tools & services I use
 1. Visual Studio Code - Py & Go
-2. Azure Services - For VMs and Kubernetes service
+2. Azure - VM, Functions, Queues, Storage and Kubernetes
 3. Jenkins and Github
 4. Splunk
 
+### News
 ```markdown
 Syntax highlighted code block
-
+- **[2018] Book chapter contribution: Web framework for Network automation and Ops API** [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
+- **[2018]Winning Team**, Servicenow employee hackathon
 # Header 1
 ## Header 2
 ### Header 3
@@ -29,7 +31,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Winning Team** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
