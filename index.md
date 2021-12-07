@@ -17,18 +17,7 @@ I've been using Golang for the past few months in my personal projects. If not a
 4. Splunk
 
 ### News
-```markdown
 Syntax highlighted code block
 - **[2018] Book chapter contribution: Web framework for Network automation and Ops API** [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
 - **[2018]Winning Team**, Servicenow employee hackathon
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haikux/haikux.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
