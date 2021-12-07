@@ -23,8 +23,7 @@ Though I've been using Golang for the past few months in my personal projects. I
 - **[Nov.2018]** Winning Team, Servicenow employee hackathon
 
 ### Favourite reads
-1. On Intelligence by Jeff Hawkins and Sandra Blakeslee - [goodreads]()
-2. Herding Hemingway's Cats: Understanding how our genes work by Kat Arney - [goodreads]()
-3. On Tyranny: Twenty Lessons from the Twentieth Century by Timothy D. Snyder - [goodreads]()
-4. Masala Lab by Krish Ashok - [goodreads]()
-Any reading suggestion ? please add it [here]() [this link redirects you to goodreads.com]!
+1. On Intelligence by Jeff Hawkins and Sandra Blakeslee - [goodreads.com](https://www.indiebound.org/book/9780805078534)
+2. Herding Hemingway's Cats: Understanding how our genes work by Kat Arney - [goodreads.com]()
+3. On Tyranny: Twenty Lessons from the Twentieth Century by Timothy D. Snyder - [goodreads.com]()
+4. Masala Lab by Krish Ashok - [goodreads.com]()
