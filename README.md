@@ -1,1 +1,1 @@
-# https://haikux.github.io/me/
+# https://haikux.github.io/bio/
