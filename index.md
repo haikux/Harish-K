@@ -21,19 +21,6 @@ I've been using Golang for the past few months in my personal projects. If not a
 Syntax highlighted code block
 - **[2018] Book chapter contribution: Web framework for Network automation and Ops API** [Practical Network Automation - Second Edition](https://www.packtpub.com/product/practical-network-automation-second-edition/9781789955651)
 - **[2018]Winning Team**, Servicenow employee hackathon
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Winning Team** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
