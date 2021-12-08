@@ -1,5 +1,3 @@
-## About me
-
 Hi there! I'm Harish, currently a software engineer at Servicenow. 
 At work, I'm heavily invested in Python ecosystem - from machine learning to automations.
 Though I've been using Golang for the past few months in my personal projects. If not at work, you can find me usually reading books (added few of my recent favorites in the last section. In case you are interested!)
